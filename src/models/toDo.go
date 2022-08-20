@@ -9,6 +9,6 @@ type ToDo struct {
 
 // a slice with some mock data
 var ToDos = []ToDo{
-	{ID: "1", Title: "Barb", Description: "Barb"},
-	{ID: "2", Title: "Clean", Description: "Clean"},
+	{ID: "1", Title: "Code", Description: "Code"},
+	{ID: "2", Title: "Test", Description: "Test"},
 }
